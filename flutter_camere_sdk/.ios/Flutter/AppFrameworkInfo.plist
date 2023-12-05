@@ -22,11 +22,5 @@
   <string>1.0</string>
   <key>MinimumOSVersion</key>
   <string>11.0</string>
-  <key>NSCameraUsageDescription</key>
-  <string>Kameranızı kullanmak için izniniz gerekiyor</string>
-  <key>NSPhotoLibraryUsageDescription</key>
-  <string>Fotoğraf galerinize erişmek için izniniz gerekiyor</string>
-  <key>NSMicrophoneUsageDescription</key>
-  <string>Mikrofonunuzu kullanmak için izniniz gerekiyor</string>
 </dict>
 </plist>

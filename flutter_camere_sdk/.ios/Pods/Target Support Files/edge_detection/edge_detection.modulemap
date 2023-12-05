@@ -1,0 +1,6 @@
+framework module edge_detection {
+  umbrella header "edge_detection-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -29,7 +29,16 @@
     "Flutter": [
 
     ],
+    "edge_detection": [
+
+    ],
     "image_picker_ios": [
+
+    ],
+    "path_provider_foundation": [
+
+    ],
+    "permission_handler_apple": [
 
     ]
   }
